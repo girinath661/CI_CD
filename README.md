@@ -42,8 +42,8 @@ The primary goal is to demonstrate:
 # 📦 How to Run This Project
 
 ### Step 1: Clone the repository
-git clone https://github.com/VodnalaNaveen/cicd.git
-cd your-repo-name
+git clone https://github.com/girinath661/CI_CD.git
+cd CI_CD
 
 ### Step 2: Install the dependencies
 pip install -r requirements.txt
